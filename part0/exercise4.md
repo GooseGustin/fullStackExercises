@@ -1,5 +1,5 @@
 ```mermaid
-sequenceDigram;
+sequenceDiagram;
     participant B as browser
     participant S as server
     
