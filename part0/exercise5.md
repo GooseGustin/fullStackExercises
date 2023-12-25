@@ -1,5 +1,5 @@
 ```mermaid
-sequenceDiagram: 
+sequenceDiagram
     participant B as browser
     participant S as server
 
@@ -16,7 +16,7 @@ sequenceDiagram:
     B->>S: GET https://studies.cs.helsinki.fi/exampleapp/main.js
     activate S
     S-->>B: the JavaScript file 
-    daectivate S
+    deactivate S
 
     B->>S: GET https://studies.cs.helsinki.fi/exampleapp/data.json
     activate S
