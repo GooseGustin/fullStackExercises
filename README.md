@@ -1,1 +1,1 @@
-This repository holds the solutions to the fullStackOpen fullstack web development course
+This repository holds the solutions to the FullStackOpen fullstack web development course
